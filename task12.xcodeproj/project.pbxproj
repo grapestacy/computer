@@ -14,6 +14,8 @@
 		F01F5110267DC45000855891 /* task12.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F01F510E267DC45000855891 /* task12.xcdatamodeld */; };
 		F01F5112267DC45500855891 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F01F5111267DC45500855891 /* Assets.xcassets */; };
 		F01F5115267DC45500855891 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F01F5113267DC45500855891 /* LaunchScreen.storyboard */; };
+		F01F511D267DC84E00855891 /* StudentModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01F511C267DC84E00855891 /* StudentModel.swift */; };
+		F01F511F267DC87700855891 /* StudentSubject.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01F511E267DC87700855891 /* StudentSubject.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		F01F5111267DC45500855891 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F01F5114267DC45500855891 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F01F5116267DC45500855891 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F01F511C267DC84E00855891 /* StudentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentModel.swift; sourceTree = "<group>"; };
+		F01F511E267DC87700855891 /* StudentSubject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentSubject.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				F01F5113267DC45500855891 /* LaunchScreen.storyboard */,
 				F01F5116267DC45500855891 /* Info.plist */,
 				F01F510E267DC45000855891 /* task12.xcdatamodeld */,
+				F01F511C267DC84E00855891 /* StudentModel.swift */,
+				F01F511E267DC87700855891 /* StudentSubject.swift */,
 			);
 			path = task12;
 			sourceTree = "<group>";
@@ -143,6 +149,8 @@
 				F01F510A267DC45000855891 /* ViewController.swift in Sources */,
 				F01F5110267DC45000855891 /* task12.xcdatamodeld in Sources */,
 				F01F5106267DC45000855891 /* AppDelegate.swift in Sources */,
+				F01F511D267DC84E00855891 /* StudentModel.swift in Sources */,
+				F01F511F267DC87700855891 /* StudentSubject.swift in Sources */,
 				F01F5108267DC45000855891 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
